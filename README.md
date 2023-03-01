@@ -1,5 +1,5 @@
 # Linked-List
-Manually creates a linked list with functionality using C.
+Manually creates a linked list with functionality using C. Compiling and running will print out the tests for the linked list written in the main function.
 
 
 To compile:
