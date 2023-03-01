@@ -1,5 +1,5 @@
 # Linked-List
-Creates a linked list in C.
+Manually creates a linked list with functionality using C.
 
 
 To compile:
